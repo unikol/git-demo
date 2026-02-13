@@ -1,4 +1,11 @@
 sing
 love 
 dive 
-kill 
+kill
+sing
+love 
+dive 
+kill sing
+love 
+dive 
+kill  
