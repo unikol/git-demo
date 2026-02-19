@@ -1,4 +1,18 @@
+<<<<<<< HEAD
 sing me
 love me
 dive me
 kill me
+=======
+sing
+love 
+dive 
+kill
+sing
+love 
+dive 
+kill sing
+love 
+dive 
+kill  
+>>>>>>> 9ce32ec0b7b8d3fceb43232de3f0b6b6f422e958
